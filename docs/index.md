@@ -16,8 +16,8 @@ Documentation for setting up, tuning, and optimizing the RX 7900 XTX for AI work
 
 * [Recommended](optimization/recommended/)
 * [Situational](optimization/situational/)
-* [Experimental](optimization/experimental/)
-* [Unsupported](optimization/unsupported/)
+* [Marginal](optimization/marginal/)
+* [Borked](optimization/borked/)
 
 ## Performance
 
