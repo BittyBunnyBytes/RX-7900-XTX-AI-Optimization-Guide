@@ -1,2 +1,18 @@
 # RX-7900-XTX-AI-Optimization-Guide
-My personal journal on trying to optimize my AI inference speeds. This will mainly focus on Linux, because that is what I am running personally.
+
+A personal journal of me trying to optimize my RX 7900 XTX
+
+## Documentation
+
+[Read the documentation](docs/index.md)
+
+## Topics
+
+* ROCm
+* ComfyUI
+* LTX
+* LLM inference
+
+## Contributing
+
+Contributions, benchmarks, and working configurations are welcome.
