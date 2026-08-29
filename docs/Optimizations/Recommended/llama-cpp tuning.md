@@ -24,4 +24,4 @@ RDNA Boosts ROCm 7.2.4
 | ------------------------------ | --------: | ------: | ------- | --: | ------: | ----: | -----: | --------------: | ------ | ----- | ---------------: |
 | Qwen 3.5 27B IQ4_XS — 4.25 bpw | 14.25 GiB | 27.32 B | ROCm    | 999 |       7 |  4096 |   1024 |               1 | ROCm0  | tg512 | **40.99 ± 0.08** |
 
-This is an increase of 7.16 tokens per second. You can absolutely stop here, but here's the rub. I'm running Linux Mint, and while its an amazing OS its ROCm defaults to 7.2.4. At the time of writing this is a three month old ROCm! We have versions 7.14 and 10.0.0 now! Question is do these versions provide better performance?
+This is an increase of 7.16%. You can absolutely stop here, but here's the rub. I'm running Linux Mint, and while its an amazing OS its ROCm defaults to 7.2.4. At the time of writing this is a three month old ROCm! We have versions 7.14 and 10.0.0 now! Question is do these versions provide better performance?
