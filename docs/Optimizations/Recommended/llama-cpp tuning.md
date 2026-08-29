@@ -28,5 +28,6 @@ RDNA Boosts ROCm 7.2.4
 
 Note : ROCm 7.14 - 40.41 ± 0.07 t/s || ROCm 10.0 - 40.14 ± 0.11 t/s
 
-This is an increase of 7.16%.
+This is an increase of 7.16%. For more in-depth benchmarking between ROCm versions check 
+https://github.com/BittyBunnyBytes/RX-7900-XTX-AI-Optimization-Guide/blob/main/docs/Optimizations/Recommended/ROCm%20Versions%20Vs%20Vulkan.md
 
