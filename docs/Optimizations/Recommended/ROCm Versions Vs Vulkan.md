@@ -1,4 +1,4 @@
-Note. This is an addendum to https://github.com/BittyBunnyBytes/RX-7900-XTX-AI-Optimization-Guide/blob/main/docs/Optimizations/Recommended/llama-cpp%20tuning.md and is running llama.cpp with RDNA boosts.
+Note. This is an addendum to https://github.com/BittyBunnyBytes/RX-7900-XTX-AI-Optimization-Guide/blob/main/docs/Optimizations/Recommended/llama-cpp%20tuning.md and is running llama.cpp with RDNA boosts. It is important to mention that for some models Vulkan outperforms ROCm and vice versa! Its important to test both!
 
 | Model                          |      Size |  Params | Backend    | NGL | Threads | Batch | UBatch | Flash Attention | Device | Test   |            Tokens/s |
 | ------------------------------ | --------: | ------: | ---------- | --: | ------: | ----: | -----: | --------------: | ------ | ------ | ------------------: |
