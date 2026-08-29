@@ -2,6 +2,9 @@
 
 A personal journal of me trying to optimize my RX 7900 XTX
 
+## DISCLAIMER
+This guide uses AI to assist in bench-marking  
+
 ## Documentation
 
 [Read the documentation](docs/index.md)
