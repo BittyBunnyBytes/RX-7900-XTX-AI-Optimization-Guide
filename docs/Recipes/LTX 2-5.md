@@ -1,5 +1,6 @@
 ## So you want to run LTX 2.5 on your 7900 XTX
 > Note : This was ran with 64GB DDR4 Ram and one 7900 XTX with 24 GB of vram
+
 There's a lot of hype over H3, but LTX 2.5 can be just as good especially at the speed it generates. If you run LTX2.5 out of the box however, it will look absolutely horrible and sound even worse. When I first bought my 7900 XTX using LTX 2.5 ate all my system resources and generated bad quality footage. Now I am able to generate 5 second 1024x704 video in roughly 1m 31s with not much jump in time when generating at higher resolution or longer duration. Let me be clear, when I say "run" I don't mean at low quality and resolution. If I wanted horrible quality I would've stayed on my 7800 xt.
 
 ## Now if you JUST wan't it to run here is what I use.
