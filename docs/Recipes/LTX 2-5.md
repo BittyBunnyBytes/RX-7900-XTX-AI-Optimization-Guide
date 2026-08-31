@@ -7,14 +7,15 @@ Assuming you're like me and aren't a comfyui god I suggest using this workflow
 https://civitai.com/models/2852749/ltx-25-int8-allinone-speed-quality-low-vram
 
 **Now, lets go over the settings I am using for this workflow.**
-Models
+
+**Models**
 * LTX 2.5 Video & Audio Vae at bf16
 * Gemma 4 12B Uncensored Heretic LTX2.5 int18 convrot
 * LTX 2.5 Latent Spatial Upscaler x2 bf16
 * LTX 2.5 22b distilled transformer comfy int8 convrot (this is the actual model)
 
-Backend
+**Backend**
 ROCm 7.14 Pytorch XXX
 
-ComfyUI Startup Arguments
+**ComfyUI Startup Arguments**
 --disable-pinned-memory --cache-none --enable-dynamic-vram --disable-smart-memory --fast-disk --disable-async-offload --disable-triton-backend --preview-method none --disable-metadata --use-split-cross-attention 
