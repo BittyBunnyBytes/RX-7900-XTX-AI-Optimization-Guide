@@ -6,7 +6,7 @@ TL;DR : Run with these settings for best results
  * Use literally any ROCm version 7.2.4 - 10.0.0
 ```
   llama-server \
-      --model /home/pleco/llama.cpp-rdna/models/Qwen3.8-27B-Uncensored-GGUF/Qwen3.8-27B-Uncensored-IQ4_XS.gguf \
+      --model PATHTOMODEL \
       --gpu-layers 999999 \
       --ctx-size 64000 \
       --parallel 1 \
