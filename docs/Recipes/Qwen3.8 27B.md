@@ -5,6 +5,27 @@ TL;DR : Run with these settings for best results
  * Flash Attention On
  * Use literally any ROCm version 7.2.4 - 10.0.0
 
+  llama-server \
+      --model /home/pleco/llama.cpp-rdna/models/Qwen3.8-27B-Uncensored-GGUF/Qwen3.8-27B-Uncensored-IQ4_XS.gguf \
+      --gpu-layers 999999 \
+      --ctx-size 64000 \
+      --parallel 1 \
+      --batch-size 1024 \
+      --ubatch-size 256 \
+      --threads 9 \
+      --flash-attn on \
+      --reasoning-preserve \
+      --host 127.0.0.1 \
+      --kv-offload \
+      --device ROCm0 \
+      --spec-type draft-mtp-adaptive \
+      --spec-draft-n-max 3 \
+      --gpu-layers-draft 999999 \
+      --spec-draft-device ROCm0 \
+      --fit off \
+      --no-mmproj \
+      --port 8081
+
 # Batch Sizes
 
 | Model                          |      Size | Backend   | Prompt | Batch | UBatch | Flash Attention | Device |          Tokens/s | Peak VRAM Used | Peak VRAM Free | Status                  |
