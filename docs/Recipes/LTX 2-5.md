@@ -22,7 +22,7 @@ ROCm 7.14 Pytorch XXX
 
 ## Field Notes
 **Don't go over VRAM**
-If you don't crash, you WILL get garbage gibberish audio and what looks like old film burning if you go over the VRAM you have. For some reason on this workflow if you don't first generate at medium tiles you will ALWAYS go over VRAM when trying to use large tiles.
+If you don't crash, you WILL get garbage gibberish audio and what looks like old film burning if you go over the VRAM you have. For some reason on this workflow if you don't generate using medium tiles at least once, you will ALWAYS go over VRAM when trying to use large tiles.
 
 ## Now why these settings and not the other ones?
 
@@ -30,6 +30,3 @@ If you don't crash, you WILL get garbage gibberish audio and what looks like old
 > Workflow Settings : Large Tiles, 1024w 704h, 30 fps, 5 seconds, randomized seed
 
 > Prompt: A realistic man faces the camera and says clearly: “I have absolutely no idea what I’m doing.” Natural expression, clear speech, accurate lip sync, stable camera, no extra voices.
-
-
-
