@@ -1,6 +1,7 @@
 # RX-7900-XTX-AI-Optimization-Guide
 
 A personal journal of me trying to optimize my RX 7900 XTX
+
 Support me on Kofi! https://ko-fi.com/bittybunnybyte
 
 ## DISCLAIMER
