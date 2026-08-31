@@ -20,7 +20,7 @@
 
   - [LTX 2.5](docs/Recipes/LTX%202-5.md)
   - [Qwen3.8 27B](docs/Recipes/Qwen3.8%2027B.md)
-  - [MiniMax H3](docs/Recipes/MiniMax%20H3) — coming soon
+  - [MiniMax H3](docs/Recipes/MiniMax%20H3.md) — coming soon
 
   ## Repository map
 
