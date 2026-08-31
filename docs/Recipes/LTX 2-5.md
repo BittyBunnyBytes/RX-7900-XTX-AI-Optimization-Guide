@@ -6,7 +6,7 @@ When I first bought my 7900 XTX using LTX 2.5 ate all my system resources and ge
 Assuming you're like me and aren't a comfyui god I suggest using this workflow
 https://civitai.com/models/2852749/ltx-25-int8-allinone-speed-quality-low-vram
 
-**Now, lets go over the settings I am using for this workflow.**
+## Now if you JUST wan't it to run here is what I use.
 
 **Models**
 * LTX 2.5 Video & Audio Vae at bf16
