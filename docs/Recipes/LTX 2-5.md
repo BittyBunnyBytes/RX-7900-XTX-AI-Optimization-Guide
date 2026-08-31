@@ -19,3 +19,8 @@ ROCm 7.14 Pytorch XXX
 
 **ComfyUI Startup Arguments**
 --disable-pinned-memory --cache-none --enable-dynamic-vram --disable-smart-memory --fast-disk --disable-async-offload --disable-triton-backend --preview-method none --disable-metadata --use-split-cross-attention 
+
+## Now why these settings and not the other ones?
+
+# Attention Benchmark
+> Large Tiles, 1024w 704h, 30 fps, 5 seconds, randomized seed
