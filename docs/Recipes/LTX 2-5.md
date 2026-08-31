@@ -24,5 +24,6 @@ ROCm 7.14 Pytorch XXX
 
 # Attention Benchmark
 > Workflow Settings : Large Tiles, 1024w 704h, 30 fps, 5 seconds, randomized seed
+
 > Prompt: A realistic man faces the camera and says clearly: “I have absolutely no idea what I’m doing.” Natural expression, clear speech, accurate lip sync, stable camera, no extra voices.
 
