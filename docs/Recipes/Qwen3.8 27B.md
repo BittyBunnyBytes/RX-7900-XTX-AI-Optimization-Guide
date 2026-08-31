@@ -4,7 +4,7 @@ TL;DR : Run with these settings for best results
  * (Install the RDNA Boost Scripts)
  * Flash Attention On
  * Use literally any ROCm version 7.2.4 - 10.0.0
-
+```
   llama-server \
       --model /home/pleco/llama.cpp-rdna/models/Qwen3.8-27B-Uncensored-GGUF/Qwen3.8-27B-Uncensored-IQ4_XS.gguf \
       --gpu-layers 999999 \
@@ -25,7 +25,7 @@ TL;DR : Run with these settings for best results
       --fit off \
       --no-mmproj \
       --port 8081
-
+```
 # Batch Sizes
 
 | Model                          |      Size | Backend   | Prompt | Batch | UBatch | Flash Attention | Device |          Tokens/s | Peak VRAM Used | Peak VRAM Free | Status                  |
