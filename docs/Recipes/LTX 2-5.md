@@ -1,4 +1,4 @@
-##So you want to run LTX 2.5 on your 7900 XTX
+## So you want to run LTX 2.5 on your 7900 XTX
 When I first bought my 7900 XTX using LTX 2.5 ate all my system resources and generated bad quality footage. Now I am able to generate 5 second 1024x704 video in roughly 1m 49s with not much jump in time when generating at higher resolution or longer duration.
 
 Assuming you're like me and aren't a comfyui god I suggest using this workflow
