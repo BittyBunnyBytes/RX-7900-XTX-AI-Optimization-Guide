@@ -4,10 +4,7 @@
 
   Benchmarks, tuning notes, and recipes for AI workloads on the RX 7900 XTX.
 
-  <a href="https://ko-fi.com/bittybunnybyte">
-    <img src="https://img.shields.io/badge/Support_me_on_Ko--fi-FF5E5B?
-    style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi">
-  </a>
+<a href='https://ko-fi.com/B0J3252AK1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   </div>
 
