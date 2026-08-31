@@ -30,3 +30,11 @@ If you don't crash, you WILL get garbage gibberish audio and what looks like old
 > Workflow Settings : Large Tiles, 1024w 704h, 30 fps, 5 seconds, randomized seed
 
 > Prompt: A realistic man faces the camera and says clearly: “I have absolutely no idea what I’m doing.” Natural expression, clear speech, accurate lip sync, stable camera, no extra voices.
+
+| Method                          | Trial 1 | Trial 2 | Trial 3 | Trial 4 | Trial 5 | Average | Est. 15s |
+| ------------------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :------: |
+| Split Cross Attention           | 1m 49s  | 1m 49s  | 1m 49s  | 1m 49s  | 1m 50s  | 1:49    | 5:28     |
+| Flash Attention                 | 1m 31s  | 1m 31s  | 1m 31s  | 1m 31s  | 1m 30s  | 1:31    | 4:32     |
+| Sage Attention                  | 1m 35s  | 1m 36s  | 1m 35s  | 1m 38s  | 1m 37s  | 1:36    | 4:49     |
+| CK Attention (W/Triton Backend) | 1m 31s  | 1m 31s  | 1m 31s  | 1m 31s  | 1m 31s  | 1:31    | 4:33     |
+| Pytorch Cross Attention         | 1m 46s  | 1m 46s  | 1m 46s  | 1m 47s  | 1m 45s  | 1:46    | 5:18     |
