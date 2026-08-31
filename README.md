@@ -12,10 +12,14 @@
 
   ### Optimizations
 
-  - [llama.cpp tuning](docs/Optimizations/Recommended/llama-cpp%20tuning.md)
-  - [ROCm versions vs. Vulkan](docs/Optimizations/Recommended/
+  - [llama.cpp tuning](https://github.com/BittyBunnyBytes/RX-7900-XTX-AI-
+  Optimization-Guide/blob/main/docs/Optimizations/Recommended/llama-
+  cpp%20tuning.md)
+  - [ROCm versions vs. Vulkan](https://github.com/BittyBunnyBytes/RX-7900-XTX-
+  AI-Optimization-Guide/blob/main/docs/Optimizations/Recommended/
   ROCm%20Versions%20Vs%20Vulkan.md)
-  - [ROCm max power settings](docs/Optimizations/Situational/
+  - [ROCm max power settings](https://github.com/BittyBunnyBytes/RX-7900-XTX-AI-
+  Optimization-Guide/blob/main/docs/Optimizations/Situational/
   ROCm%20Max%20Power%20Settings) — work in progress
 
   ### Recipes
